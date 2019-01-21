@@ -19,6 +19,6 @@
 
 - 传统虚拟化和Docker虚拟化方式
 
-  ![](E:\Learning\Docker\Docker技术入门与实战\img\c1-1.png)
+  ![](..\img\c1-1.png)
 
 - Docker容器是在操作系统层面上实现虚拟化，直接复用本地主机的操作系统。
