@@ -13,3 +13,5 @@
 ## [第六章-数据管理](./note/chapter6.md)
 
 ## [第七章-网络基础配置](./note/chapter7.md)
+
+## [第八章-使用Dockerfile创建镜像](./note/chapter8.md)
