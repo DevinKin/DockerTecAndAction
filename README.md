@@ -9,3 +9,5 @@
 ## [第四章-容器](./note/chapter4.md)
 
 ## [第五章-仓库](./note/chapter5.md)
+
+## [第六章-数据管理](./note/chapter6.md)
