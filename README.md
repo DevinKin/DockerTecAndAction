@@ -11,3 +11,5 @@
 ## [第五章-仓库](./note/chapter5.md)
 
 ## [第六章-数据管理](./note/chapter6.md)
+
+## [第七章-网络基础配置](./note/chapter7.md)
